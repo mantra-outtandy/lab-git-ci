@@ -244,11 +244,13 @@ Change the value of the trigger to launch the pipeline on all branches of type:
 * main
 * feature (beginning with the word feature/...)
 
+
+
 ### 2.6: Creating a new branch
 Your pipeline is now ready to execute the steps defined within it, whatever branches are created. 
 
 Create a `feature/test-build` branch from the develop branch and note that the build is automatically applied to this branch.
-
+* test d'Outtandy Mantra
 ### 2.6 : Conclusion
 You can now create several features branches and see that the build, test and package stages are applied to these branches.
 
